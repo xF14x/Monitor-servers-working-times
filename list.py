@@ -1,0 +1,1 @@
+list = ['google.com', 'twitter.com']
